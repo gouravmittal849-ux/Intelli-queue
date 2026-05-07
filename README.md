@@ -1,3 +1,5 @@
+link https://superb-swan-400f73.netlify.app
+
 # Hospital Queue Management System
 
 An intelligent hospital queue management system designed to optimize patient wait times and streamline doctor scheduling.
